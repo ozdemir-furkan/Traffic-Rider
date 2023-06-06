@@ -5,3 +5,4 @@ Projemde C# Windows Form Application kullanarak(.NETFramework version="v  4.7.2"
 hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması için bir heyecan yüklemiş olabiliriz. 
 Önüne çıktığı araçlara çarptığı anda ise kaza ses efekti koyarak oyuncunun kaza yaptığını bildirebiliriz.
 
+## Projeye Başlangıç
