@@ -11,7 +11,7 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Araba görünümlerini kod dosyalarının içine ekleyip araç kutusundan picturebox eklentisiyle arabamı dahil ettim.
 <img src="steps/step1.png" width="300" height="300"> <img src="steps/step2.png" width="300" height="300"> <img src="steps/step3.png" width="300" height="300"> 
 * Alt kısıma eklemiş olduğumuz kısıma hız, alınan yol ve yüksek skor değerlerini ekledim.
-<img src="steps/step3.png" width="300" height="300"> 
+
 
 
 
