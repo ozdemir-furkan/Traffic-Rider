@@ -16,4 +16,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Daha sonrasında aracımızın sağa ve sola yön hareketlerini ayarlamak için **key prewiew** özelliğini true hale getirip olaylar kısmından keydown eventi üzerinde if else kullanarak tuşlara basıldığında sağa sola geçme eventini ayarladıktan sonra yeni bir void oluşturarak tuşa basıldığında aracın hangi konumda olması gerektiğini düzenledim.
 * Oyun zevkimizin artması için rastgele müzik gelmesini planladığım müzikler için random yapısını ekleyip voide ekledim. **axWindowsMediaPlayer** yapısıyla dosyamızdan müziği çekerek oyunda çalmasını sağladım.
 * Herhangi bir sıkıntı durumunda oyunumuzun durdurulması veya müzikten rahatsız olan oyuncu için müziği kapatma ve açma tuşu ekledim.
-
+* Aracamıza hareket ettiriyor görüntüsü vermek için şeritlerimiz aşağı ve yukarı hareket ettirerek aracımıza gidiyor izlenimi veriyorum. Şeritleri for döngüsü kullanarak sonsuz döngüye sokup aracımız oyun durdurulana kadar veya çarpana kadar aracımız hareket ediyor olarak gözükecektir.
