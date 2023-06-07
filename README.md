@@ -19,4 +19,5 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Aracamıza hareket ettiriyor görüntüsü vermek için şeritlerimiz aşağı ve yukarı hareket ettirerek aracımıza gidiyor izlenimi veriyorum. Şeritleri for döngüsü kullanarak sonsuz döngüye sokup aracımız oyun durdurulana kadar veya çarpana kadar aracımız hareket ediyor olarak gözükecektir.
 <img src="steps/arabagif.gif" width="300" height="300">
 
-* Daha sonra
+* Daha sonra karşımıza çıkacak araçları oyuna dahil etmek için yeni bir class oluşturup içine oyuna dahil edeceğimiz araçların resimlerini aktardım.
+* Karşımıza çıkacak olan arabaları döngüye sokarak sürekli gelmelerini sağlayıp araç boyutlarını orantıladım. Her şeride en fazla 2 tane araç gelebilecek şekilde düzenledim.
