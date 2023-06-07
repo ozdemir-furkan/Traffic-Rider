@@ -21,3 +21,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 
 * Daha sonra karşımıza çıkacak araçları oyuna dahil etmek için yeni bir class oluşturup içine oyuna dahil edeceğimiz araçların resimlerini aktardım.
 * Karşımıza çıkacak olan arabaları döngüye sokarak sürekli gelmelerini sağlayıp araç boyutlarını orantıladım. Her şeride en fazla 2 tane araç gelebilecek şekilde düzenledim.
+<img src="steps/arac2.gif" width="300" height="300">
