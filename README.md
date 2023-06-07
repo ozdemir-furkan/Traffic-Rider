@@ -7,9 +7,10 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 ## Projeye Başlangıç
 * Projemi oluşturmak için Visual Studio 2019 uygulamasını açıp yeni bir proje oluştur kısmından Windows Form Uygulaması(.NET Framework)'nı seçerek projemi oluşturdum.
 * Form kontrolleri üzerinden sekme başlığındaki Form 1 yazısını text sekmesinden düzenleyip gerekli boyut ayarlamalarını yaptıktan sonra oyun arayüzüme uygun olması için arka plan rengini ayarladım. Daha sonrasında Alt sekmede tutmayı planladığım skor bilgileri için araç kutusundan label ekleyerek arayüz düzenlemelerimi yaptım.
-<img src="steps/step1.png" width="300" height="300">
 * Daha sonrasında şeritlerimizi eklemek için yeni bir label ekleyerek şerit düzenlemelerini yaptım.
-<img src="steps/step2.png" width="300" height="300">
+* Araba görünümlerini kod dosyalarının içine ekleyip araç kutusundan picturebox eklentisiyle arabamı oyuna ekledikten sonra alt kısıma eklemiş olduğumuz label içerisine hız, alınan yol ve yüksek skor kısımlarını ekledim.
+<img src="steps/step1.png" width="350" height="350"> <img src="steps/step2.png" width="350" height="350"> <img src="steps/step3.png" width="350" height="350">
+
 
 
 ## Projeye Başlangıç
