@@ -18,4 +18,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Herhangi bir sıkıntı durumunda oyunumuzun durdurulması veya müzikten rahatsız olan oyuncu için müziği kapatma ve açma tuşu ekledim.
 * Aracamıza hareket ettiriyor görüntüsü vermek için şeritlerimiz aşağı ve yukarı hareket ettirerek aracımıza gidiyor izlenimi veriyorum. Şeritleri for döngüsü kullanarak sonsuz döngüye sokup aracımız oyun durdurulana kadar veya çarpana kadar aracımız hareket ediyor olarak gözükecektir.
 
-
+<img src="steps/arabagif.gif" width="300" height="300">
