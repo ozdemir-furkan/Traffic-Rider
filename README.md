@@ -13,4 +13,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 
 <img src="steps/step1.png" width="250" height="250"> <img src="steps/step2.png" width="250" height="250"> <img src="steps/step3.png" width="250" height="250">
 
-* Daha sonrasında
+* Daha sonrasında aracımızın sağa ve sola yön hareketlerini ayarlamak için **key prewiew** özelliğini true hale getirip olaylar kısmından keydown eventi üzerinde düzenlemeler yapıyorum.
