@@ -5,10 +5,10 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 Önüne çıktığı araçlara çarptığı anda ise kaza ses efekti koyarak oyuncunun kaza yaptığını bildirebiliriz.
 
 ## Projeye Başlangıç
-- Projemi oluşturmak için Visual Studio 2019 uygulamasını açıp yeni bir proje oluştur kısmından Windows Form Uygulaması(.NET Framework)'nı seçerek projemi oluşturdum.
-- Form kontrolleri üzerinden sekme başlığındaki Form 1 yazısını text sekmesinden düzenleyip gerekli boyut ayarlamalarını yaptıktan sonra oyun arayüzüme uygun olması için arka plan rengini ayarladım. Daha sonrasında Alt sekmede tutmayı planladığım skor bilgileri için araç kutusundan label ekleyerek arayüz düzenlemelerimi yaptım.
+* Projemi oluşturmak için Visual Studio 2019 uygulamasını açıp yeni bir proje oluştur kısmından Windows Form Uygulaması(.NET Framework)'nı seçerek projemi oluşturdum.
+* Form kontrolleri üzerinden sekme başlığındaki Form 1 yazısını text sekmesinden düzenleyip gerekli boyut ayarlamalarını yaptıktan sonra oyun arayüzüme uygun olması için arka plan rengini ayarladım. Daha sonrasında Alt sekmede tutmayı planladığım skor bilgileri için araç kutusundan label ekleyerek arayüz düzenlemelerimi yaptım.
 <img src="steps/step1.png" width="300" height="300">
-- Daha sonrasında şeritlerimizi eklemek için yeni bir label ekleyerek şerit düzenlemelerini yaptım.
+* Daha sonrasında şeritlerimizi eklemek için yeni bir label ekleyerek şerit düzenlemelerini yaptım.
 <img src="steps/step2.png" width="300" height="300">
 
 
