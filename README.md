@@ -9,7 +9,7 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Form kontrolleri üzerinden sekme başlığındaki Form 1 yazısını text sekmesinden düzenleyip gerekli boyut ayarlamalarını yaptıktan sonra oyun arayüzüme uygun olması için arka plan rengini ayarladım. Daha sonrasında Alt sekmede tutmayı planladığım skor bilgileri için araç kutusundan label ekleyerek arayüz düzenlemelerimi yaptım.
 * Daha sonrasında şeritlerimizi eklemek için yeni bir label ekleyerek şerit düzenlemelerini yaptım.
 * Araba görünümlerini kod dosyalarının içine ekleyip araç kutusundan picturebox eklentisiyle arabamı dahil ettim.
-* Alt kısıma eklemiş olduğumuz kısıma hız, alınan yol ve yüksek skor değerlerini ekledim.
+* Alt kısıma eklemiş olduğumuz label içerisine hız, alınan yol ve yüksek skor değerlerini ekledim.
 <img src="steps/step1.png" width="300" height="300"> <img src="steps/step2.png" width="300" height="300"> <img src="steps/step3.png" width="300" height="300"> 
 
 
