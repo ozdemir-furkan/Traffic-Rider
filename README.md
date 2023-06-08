@@ -30,4 +30,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
   - 150-250 Yol Aralığı: 2. Seviye
   - 250-400 Yol Aralığı: 3. Seviye
   - 400 ve üzeri Yol Aralığı: 4. Seviye olarak ayarladım.
-* Alttaki eklemiş olduğumuz Alınan Yol kısımını gidilen mesafeye göre hızımızı da başlangıçta 70 km/h 2. seviyede 100 3. seviyede 130 4. seviyede ise 170 olarak ayarladım.
+* Alttaki eklemiş olduğumuz Alınan Yol kısımını gidilen mesafeye göre hızımızı da alınan yola bağlı olarak artacak yani başlangıçta 70 km/h 2. seviyede 100 3. seviyede 130 4. seviyede ise 170 olarak ayarladım.
