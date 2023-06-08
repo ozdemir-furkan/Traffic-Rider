@@ -33,4 +33,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Alttaki eklemiş olduğumuz Alınan Yol kısımını gidilen mesafeye göre hızımızı da alınan yola bağlı olarak artacak yani başlangıçta 70 km/h 2. seviyede 100 3. seviyede 130 4. seviyede ise 170 olarak ayarladım.
 * Son olarak da yüksek skorların tutulduğu ayarlamaları yapıp oyunumu hazır hale getiriyorum.
 ## Oynanış Videosu
-<img src="steps/oynanis.gif" width="720" height="1080">
+<img src="steps/oynanis.gif" width="700" height="700">
