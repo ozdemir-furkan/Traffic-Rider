@@ -20,7 +20,9 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 <img src="steps/arabagif.gif" width="300" height="300">
 
 * Daha sonra karşımıza çıkacak araçları oyuna dahil etmek için yeni bir class oluşturup içine oyuna dahil edeceğimiz araçların resimlerini aktardım.
-* Karşımıza çıkacak olan arabaları sürekli gelmeleri için tekrardan form üzerine **timer** ekleyerek for döngüsü ile sürekli gelmelerini sağladım ve araç boyutlarını orantıladım. Her şeride en fazla 2 tane araç gelebilecek şekilde düzenledim. Karşıdan gelen araçlar alınan yola göre ilerleyen vakitlerde seviye seviye hızlanacak şekilde ayarladım.
+* Karşımıza çıkacak olan arabaları sürekli gelmeleri için tekrardan form üzerine **timer** ekleyerek for döngüsü ile sürekli gelmelerini sağladım ve araç boyutlarını orantıladım. Her şeride en fazla 2 tane araç gelebilecek şekilde düzenledim. Karşıdan gelen araçlar alınan yola göre ilerleyen vakitlerde seviye seviye hızlanacak şekilde ayarlamayı planlıyorum.
 <img src="steps/aracgif.gif" width="300" height="300">
 
-* Kaza durumunu ayarlamak için araçların sonsuz döngüde olduğu **timer** içerisine aracımızın şeritlerde önüne çıkan diğer araçlara çarptığında kaza yaşanması anında oyunun sonlandırılmasını ayarladım ve ekrana yeniden devam edebileceği bir **message box** ekledim.
+* Kaza durumunu ayarlamak için araçların sonsuz döngüde olduğu **timer** içerisine aracımızın şeritlerde önüne çıkan diğer araçlara çarptığında kaza yaşanması anında daha önceden eklemiş olduğum sesler içerisinden kaza ses efektini ekledim ve oyunun sonlandırılmasını ayarladım.
+* Kaza sonrasında kullanıcıya kaza yaptığını bildirmek ve yeniden devam etmek istediğini sormak için **message box** ekledim.
+* 
