@@ -22,3 +22,5 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Daha sonra karşımıza çıkacak araçları oyuna dahil etmek için yeni bir class oluşturup içine oyuna dahil edeceğimiz araçların resimlerini aktardım.
 * Karşımıza çıkacak olan arabaları sürekli gelmeleri için tekrardan form üzerine **timer** ekleyerek for döngüsü ile sürekli gelmelerini sağladım ve araç boyutlarını orantıladım. Her şeride en fazla 2 tane araç gelebilecek şekilde düzenledim. Karşıdan gelen araçlar alınan yola göre ilerleyen vakitlerde seviye seviye hızlanacak şekilde ayarladım.
 <img src="steps/aracgif.gif" width="300" height="300">
+
+* Kaza durumunu ayarlamak için araçların sonsuz döngüde olduğu **timer** içerisine aracımız sol ve şeritte önüne çıkan araçlardan herhangi birine çarptığında kaza yapması olayını ayarladım.
