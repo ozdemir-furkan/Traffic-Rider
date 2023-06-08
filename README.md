@@ -25,4 +25,4 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 
 * Kaza durumunu ayarlamak için araçların sonsuz döngüde olduğu **timer** içerisine aracımızın şeritlerde önüne çıkan diğer araçlara çarptığında kaza yaşanması anında daha önceden eklemiş olduğum sesler içerisinden kaza ses efektini ekledim ve oyunun sonlandırılmasını ayarladım.
 * Kaza sonrasında kullanıcıya kaza yaptığını bildirmek ve yeniden devam etmek istediğini sormak için **message box** ekledim.
-* 
+* Daha önceden planlamış olduğum hız seviye sistemini ayarlamak için şeritlerin olduğu ayarlamalara gelip alınan yola göre şeritlerin aşağı yukarı hareketini hızlandırarak oyuna hız sistemi ekledim
