@@ -27,7 +27,7 @@ hız ve anlık gidilen metre hesabını da tutarak oyuncuya rekoru kırması iç
 * Kaza sonrasında kullanıcıya kaza yaptığını bildirmek ve yeniden devam etmek istediğini sormak için **message box** ekledim.
 * Daha önceden planlamış olduğum hız seviye sistemini ayarlamak için şeritlerin olduğu ayarlamalara gelip alınan yola göre şeritlerin aşağı yukarı hareketini hızlandırarak oyuna hız sistemi ekledim. 
 * 0-150 Yol Aralığı:1. Seviye
-  150-250 Yol Aralığı: 2. Seviye
-  250-400 Yol Aralığı:3. Seviye
-  400+ Yol Aralığı:4. Seviye 
+  - 150-250 Yol Aralığı: 2. Seviye
+  - 250-400 Yol Aralığı:3. Seviye
+  - 400+ Yol Aralığı:4. Seviye 
   olarak ayarladım.
