@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\bin\Debug\Traffic Rider.exe.config
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\bin\Debug\Traffic Rider.exe
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\bin\Debug\Traffic Rider.pdb
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\bin\Debug\Interop.WMPLib.dll
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Interop.WMPLib.dll
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.csproj.ResolveComReference.cache
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic_Rider.Form1.resources
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic_Rider.Properties.Resources.resources
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.exe
+C:\Users\furka\source\repos\Traffic Rider\Traffic Rider\obj\Debug\Traffic Rider.pdb
